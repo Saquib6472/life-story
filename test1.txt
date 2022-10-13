@@ -1,6 +1,12 @@
-I was born on may 23rd 1998
+I was born in may 23rd 1998
 I have done my ssc on 2014
 I have done my bsc on 2022
+<<<<<<< HEAD
 I have completed my Associate on 2022
 i have started my intern on 2022
+=======
+I have completed my AS on 2022
+I have started my internship in 2022
+I will join lumen by next month
+>>>>>>> feature2
 
